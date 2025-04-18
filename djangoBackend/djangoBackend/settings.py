@@ -28,7 +28,8 @@ SECRET_KEY = 'django-insecure-9n5+afl&9jegu_z4rc%&r_6)zk4$qyhc5ci^#x$cqdy24my_tv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
+# ALLOWED_HOSTS = ['hospital-appointment-management-app.onrender.com']
 
 
 # Application definition

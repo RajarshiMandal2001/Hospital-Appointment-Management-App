@@ -149,5 +149,6 @@ SIMPLE_JWT = {
 }
 
 CORS_ALLOWED_ORIGINS = [
+    "https://hospital-appointment-management-app-a5ww.onrender.com",
     "http://localhost:3000",
 ]
